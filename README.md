@@ -55,4 +55,5 @@ print("---------------------------------------------------------------")
 
 ## Result :
 Thus, the M/M/1 queuing model (Single Server with Infinite Capacity – FIFO) was executed successfully. The average number of objects in the system, average waiting time, arrival rate, service rate, and probabilities of busy and idle states were calculated successfully using the given input values.
-## Github Link: https://github.com/PriyaRithanya/Single-server-infinite-capacity---Markov-Model.git
+## Github Link:
+https://github.com/PriyaRithanya/Single-server-infinite-capacity---Markov-Model.git
